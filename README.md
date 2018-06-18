@@ -1,5 +1,5 @@
-# sps-gameserver
-Stone, Paper, Scissors Game Server
+# RPS gameserver
+Rock, Paper, Scissors Game Server
 
 ## Running the docker 
 

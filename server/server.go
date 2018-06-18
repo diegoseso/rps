@@ -7,7 +7,6 @@ import(
 	"time"
 	"net/http"
 	"os"
-	"sfp13/viper"
 )
 
 type Server struct{

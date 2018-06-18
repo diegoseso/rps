@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/diegoseso/sps/server"
+	"github.com/diegoseso/rps/server"
 	"os"
 	"os/signal"
 	"syscall"
