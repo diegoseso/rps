@@ -1,0 +1,4 @@
+{
+    "http-server-url" : "http://localhost/login",
+    "ws-server-url": "ws://localhost:8080/ws"
+}

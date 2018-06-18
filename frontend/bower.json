@@ -1,0 +1,29 @@
+{
+  "name": "sps",
+  "homepage": "https://github.com/diegoseso/sps-game",
+  "authors": [
+    "Diego sosa <diego.venezuela@gmail.com>"
+  ],
+  "description": "frontend game dependencies",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "paper",
+    "scissors",
+    "html5",
+    "phaser",
+    "stone"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^2.4.7",
+    "bootstrap": "^4.1.1"
+  }
+}
